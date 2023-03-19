@@ -1,1 +1,0 @@
-var myVariable = "Hello, world!";
